@@ -29,7 +29,7 @@ You are not allowed to add any other elements to the html file, which means that
 **Hints**
 
 * Each tile should be a `div`
-* Each tile's width is `11.1%`
+* Each tile's width is `11.1%`s
 * Set each tile's `float` property to `left`
 * Each tile's paddingBottom is `11.1%`
 
